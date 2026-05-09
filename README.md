@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # E-Commerce Sales Analysis
 
 End-to-end analysis of an online furniture store using BigQuery, Python, and Tableau.  
