@@ -32,6 +32,11 @@ Analyzed multi-category retail sales across countries, channels, and product cat
 Key insight: delivery delays concentrated in highest-margin categories — logistics fix has zero revenue risk.  
 `Python` `pandas` `matplotlib` `seaborn`
 
+### [User Engagement & Email Analytics](https://github.com/DarynaN/user-engagement-analysis)
+Built a BigQuery dataset to analyze account growth and email engagement across top markets.  
+Used CTEs, UNION ALL, and DENSE_RANK() window functions to rank countries by account volume and email activity.  
+`BigQuery` `SQL` `Looker Studio`
+
 ---
 
 ## 📊 Tableau Public
