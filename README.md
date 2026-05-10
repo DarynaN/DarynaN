@@ -17,10 +17,10 @@ Conducted exploratory and comparative analysis to identify monetization gaps, lo
 Key insight: several high-traffic product categories underperformed in revenue generation, indicating monetization opportunities rather than acquisition issues.
 `BigQuery` `Python` `Tableau`
 
-### A/B Test Pipeline — Checkout Funnel *(coming soon)*
+### A/B Test Pipeline — Checkout Funnel 
 `Python` `statsmodels` `Tableau`
 
-### User Engagement Analysis *(coming soon)*
+### User Engagement Analysis 
 `BigQuery` `SQL` `Looker Studio`
 
 ---
