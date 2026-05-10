@@ -27,9 +27,6 @@ Evaluated conversion differences across devices, geography, and acquisition chan
 
 `Python` `statsmodels` `scipy` `Tableau`
 
-### User Engagement Analysis 
-`BigQuery` `SQL` `Looker Studio`
-
 ---
 
 ## 📊 Tableau Public
