@@ -27,6 +27,11 @@ Evaluated conversion differences across devices, geography, and acquisition chan
 
 `Python` `statsmodels` `scipy` `Tableau`
 
+### [Sales Data Analysis](https://github.com/DarynaN/sales-data-analysis)
+Analyzed multi-category retail sales across countries, channels, and product categories.  
+Key insight: delivery delays concentrated in highest-margin categories — logistics fix has zero revenue risk.  
+`Python` `pandas` `matplotlib` `seaborn`
+
 ---
 
 ## 📊 Tableau Public
